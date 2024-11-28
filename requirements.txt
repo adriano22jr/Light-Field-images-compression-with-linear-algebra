@@ -1,0 +1,11 @@
+subprocess.run
+ffmpeg
+opencv-python
+pillow
+scikit-image
+scikit-learn
+matplotlib
+pandas
+ipykernel
+jupyter
+av
