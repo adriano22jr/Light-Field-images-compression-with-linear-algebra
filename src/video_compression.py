@@ -59,3 +59,13 @@ match algorithm:
             compressors.compressor_VP9VS(input_path, output_path)
         else:
             print("VP9-VS needs an output file with extension .webm")
+    case "DIRAC":
+        if pathlib.Path(output_path).suffix == ".mkv":
+            compressors.compressor_DIRAC(input_path, output_path)
+        else:
+            print("DIRAC needs an output file with extension .mkv")
+    case "MSU":
+        if pathlib.Path(output_path).suffix == ".avi":
+            compressors.compressor_MSU(input_path, output_path)
+        else:
+            print("MSU needs an output file with extension .avi")

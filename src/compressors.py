@@ -124,3 +124,27 @@ def compressor_FFV1(input_path, output_path):
 
     endTime = time.time()
     print(f"Encoded in {endTime - startTime} seconds.")  # print the time taken to encode the video
+
+def compressor_DIRAC(input_path, output_path):
+    input_file = input_path
+    output_file = output_path
+    
+    startTime = time.time()
+    
+    subprocess.run(["../../bin/ffmpeg", "-framerate", "120", "-i", input_file, "-c:v", "dirac", output_file])
+    
+    endTime = time.time()
+    print(f"Encoded in {endTime - startTime} seconds.")
+
+def compressor_MSU(input_path, output_path):
+    # set input and output paths
+    input_file = input_path
+    output_file = output_path
+    
+    startTime = time.time()
+    
+    # call ffmpeg to compress the video with MSU codec
+    subprocess.run(["../../bin/ffmpeg", "-framerate", "120", "-i", input_file, "-c:v", "msrle", output_file])
+    
+    endTime = time.time()
+    print(f"Encoded in {endTime - startTime} seconds.")  # print the time taken to encode the video
