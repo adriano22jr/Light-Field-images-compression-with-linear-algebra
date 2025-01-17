@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 import re
 import subprocess
-import os
 
 def pca_compression(input_path, output_path, n_components):
     number_of_files = len(next(os.walk(input_path))[2])    
@@ -116,8 +115,8 @@ if __name__ == '__main__':
         print(f"Testing PCA compression with {n_components} components...")
         # Create directory for the current n_components
         component_dir = os.path.join(output_path, str(n_components))
-        #os.makedirs(component_dir, exist_ok=True)
-        #pca_compression(input_path, component_dir, n_components)
+        os.makedirs(component_dir, exist_ok=True)
+        pca_compression(input_path, component_dir, n_components)
     
         # Calcola SSIM e PSNR
         ssim, psnr = calculate_metrics(component_dir + "/Frame_000.png", input_path + "Frame_000.png")
