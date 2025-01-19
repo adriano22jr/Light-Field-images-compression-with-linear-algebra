@@ -1,6 +1,7 @@
 /data_compression
 /results
 /pca_results
+/pca_datasets
 /env
 /nn_datasets
 /result
