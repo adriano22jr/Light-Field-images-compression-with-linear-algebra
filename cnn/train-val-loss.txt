@@ -1,0 +1,207 @@
+Epoch 1/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0449
+Checkpoint saved at epoch 1
+240/240 ━━━━━━━━━━━━━━━━━━━━ 439s 1s/step - loss: 0.0449 - val_loss: 0.0075
+
+
+
+Epoch 2/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0074
+Checkpoint saved at epoch 2
+240/240 ━━━━━━━━━━━━━━━━━━━━ 276s 1s/step - loss: 0.0074 - val_loss: 0.0056
+
+
+
+Epoch 3/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0046
+Checkpoint saved at epoch 3
+240/240 ━━━━━━━━━━━━━━━━━━━━ 270s 1s/step - loss: 0.0046 - val_loss: 0.0037
+
+
+
+Epoch 4/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0036
+Checkpoint saved at epoch 4
+240/240 ━━━━━━━━━━━━━━━━━━━━ 268s 1s/step - loss: 0.0036 - val_loss: 0.0032
+
+
+
+Epoch 5/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0032
+Checkpoint saved at epoch 5
+240/240 ━━━━━━━━━━━━━━━━━━━━ 279s 1s/step - loss: 0.0032 - val_loss: 0.0027
+
+
+
+Epoch 6/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0048
+Checkpoint saved at epoch 6
+240/240 ━━━━━━━━━━━━━━━━━━━━ 310s 1s/step - loss: 0.0049 - val_loss: 0.0366
+
+
+
+Epoch 7/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0228
+Checkpoint saved at epoch 7
+240/240 ━━━━━━━━━━━━━━━━━━━━ 320s 1s/step - loss: 0.0228 - val_loss: 0.0069
+
+
+
+Epoch 8/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0072
+Checkpoint saved at epoch 8
+240/240 ━━━━━━━━━━━━━━━━━━━━ 265s 1s/step - loss: 0.0072 - val_loss: 0.0088
+
+
+
+Epoch 9/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0112
+Checkpoint saved at epoch 9
+240/240 ━━━━━━━━━━━━━━━━━━━━ 265s 1s/step - loss: 0.0112 - val_loss: 0.0047
+
+
+
+Epoch 10/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0083
+Checkpoint saved at epoch 10
+240/240 ━━━━━━━━━━━━━━━━━━━━ 321s 1s/step - loss: 0.0083 - val_loss: 0.0054
+
+
+
+Epoch 11/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0096
+Checkpoint saved at epoch 11
+240/240 ━━━━━━━━━━━━━━━━━━━━ 265s 1s/step - loss: 0.0096 - val_loss: 0.0061
+
+
+
+Epoch 12/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0057
+Checkpoint saved at epoch 12
+240/240 ━━━━━━━━━━━━━━━━━━━━ 321s 1s/step - loss: 0.0057 - val_loss: 0.0054
+
+
+
+Epoch 13/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0074
+Checkpoint saved at epoch 13
+240/240 ━━━━━━━━━━━━━━━━━━━━ 265s 1s/step - loss: 0.0074 - val_loss: 0.0037
+
+
+
+Epoch 14/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0038
+Checkpoint saved at epoch 14
+240/240 ━━━━━━━━━━━━━━━━━━━━ 265s 1s/step - loss: 0.0038 - val_loss: 0.0030
+
+
+
+Epoch 15/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0031
+Checkpoint saved at epoch 15
+240/240 ━━━━━━━━━━━━━━━━━━━━ 322s 1s/step - loss: 0.0031 - val_loss: 0.0034
+
+
+
+Epoch 16/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0030 
+Checkpoint saved at epoch 16
+240/240 ━━━━━━━━━━━━━━━━━━━━ 266s 1s/step - loss: 0.0030 - val_loss: 0.0026
+
+
+
+Epoch 17/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0025
+Checkpoint saved at epoch 17
+240/240 ━━━━━━━━━━━━━━━━━━━━ 265s 1s/step - loss: 0.0025 - val_loss: 0.0022
+
+
+
+Epoch 18/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0024
+Checkpoint saved at epoch 18
+240/240 ━━━━━━━━━━━━━━━━━━━━ 322s 1s/step - loss: 0.0024 - val_loss: 0.0021
+
+
+
+Epoch 19/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0022
+Checkpoint saved at epoch 19
+240/240 ━━━━━━━━━━━━━━━━━━━━ 266s 1s/step - loss: 0.0022 - val_loss: 0.0021
+
+
+
+Epoch 20/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0025
+Checkpoint saved at epoch 20
+240/240 ━━━━━━━━━━━━━━━━━━━━ 276s 1s/step - loss: 0.0025 - val_loss: 0.0020
+
+
+
+Epoch 21/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0022
+Checkpoint saved at epoch 21
+240/240 ━━━━━━━━━━━━━━━━━━━━ 311s 1s/step - loss: 0.0022 - val_loss: 0.0020
+
+
+
+Epoch 22/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0019 
+Checkpoint saved at epoch 22
+240/240 ━━━━━━━━━━━━━━━━━━━━ 266s 1s/step - loss: 0.0019 - val_loss: 0.0017
+
+
+
+Epoch 23/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0020
+Checkpoint saved at epoch 23
+240/240 ━━━━━━━━━━━━━━━━━━━━ 321s 1s/step - loss: 0.0020 - val_loss: 0.0018
+
+
+
+Epoch 24/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0018
+Checkpoint saved at epoch 24
+240/240 ━━━━━━━━━━━━━━━━━━━━ 265s 1s/step - loss: 0.0018 - val_loss: 0.0019
+
+
+
+Epoch 25/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0018
+Checkpoint saved at epoch 25
+240/240 ━━━━━━━━━━━━━━━━━━━━ 332s 1s/step - loss: 0.0018 - val_loss: 0.0074
+
+
+
+Epoch 26/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0053
+Checkpoint saved at epoch 26
+240/240 ━━━━━━━━━━━━━━━━━━━━ 312s 1s/step - loss: 0.0053 - val_loss: 0.0067
+
+
+
+Epoch 27/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0063
+Checkpoint saved at epoch 27
+240/240 ━━━━━━━━━━━━━━━━━━━━ 322s 1s/step - loss: 0.0063 - val_loss: 0.0115
+
+
+
+Epoch 28/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0081
+Checkpoint saved at epoch 28
+240/240 ━━━━━━━━━━━━━━━━━━━━ 266s 1s/step - loss: 0.0081 - val_loss: 0.0041
+
+
+
+Epoch 29/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0039
+Checkpoint saved at epoch 29
+240/240 ━━━━━━━━━━━━━━━━━━━━ 321s 1s/step - loss: 0.0039 - val_loss: 0.0031
+
+
+
+Epoch 30/30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 0s 1s/step - loss: 0.0031
+Checkpoint saved at epoch 30
+240/240 ━━━━━━━━━━━━━━━━━━━━ 322s 1s/step - loss: 0.0031 - val_loss: 0.0028

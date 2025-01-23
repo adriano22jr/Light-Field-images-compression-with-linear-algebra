@@ -3,5 +3,5 @@
 /pca_results
 /pca_datasets
 /env
-/nn_datasets
+/cnn/nn_datasets
 /result
