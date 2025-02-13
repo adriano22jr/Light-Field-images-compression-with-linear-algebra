@@ -136,7 +136,7 @@ def compressor_DIRAC(input_path, output_path):
     endTime = time.time()
     print(f"Encoded in {endTime - startTime} seconds.")
 
-def compressor_MSU(input_path, output_path):
+def compressor_MSRLE(input_path, output_path):
     # set input and output paths
     input_file = input_path
     output_file = output_path

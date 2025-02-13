@@ -10,3 +10,4 @@ ipykernel
 jupyter
 av
 tensorflow
+zstandard

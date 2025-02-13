@@ -64,8 +64,8 @@ match algorithm:
             compressors.compressor_DIRAC(input_path, output_path)
         else:
             print("DIRAC needs an output file with extension .mkv")
-    case "MSU":
+    case "MS-RLE":
         if pathlib.Path(output_path).suffix == ".avi":
-            compressors.compressor_MSU(input_path, output_path)
+            compressors.compressor_MSRLE(input_path, output_path)
         else:
-            print("MSU needs an output file with extension .avi")
+            print("MS-RLE needs an output file with extension .avi")
